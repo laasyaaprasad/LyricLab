@@ -1,0 +1,460 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"enko ye bibia ye ye bibia ye"
+enko ye bibia ye ye bibia ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye maaaa ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye
+----- Diversity:0.4
+----- Generating with seed:
+"enko ye bibia ye ye bibia ye"
+enko ye bibia ye ye bibia ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye maaaa ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye
+----- Diversity:0.5
+----- Generating with seed:
+"enko ye bibia ye ye bibia ye"
+enko ye bibia ye ye bibia ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye nooma ye ye ye ye ye ye ye ye ye ye ye ye ye
+----- Diversity:0.6
+----- Generating with seed:
+"enko ye bibia ye ye bibia ye"
+enko ye bibia ye ye bibia ye ye ye nooma ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye wo ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye
+----- Diversity:0.7
+----- Generating with seed:
+"enko ye bibia ye ye bibia ye"
+enko ye bibia ye ye bibia ye ye nooma ye ye ye ye wo ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye nooma ye ye nooma ye maaaa ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"meant hurt one saw scars upon brokenhearted"
+meant hurt one saw scars upon brokenhearted love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.4
+----- Generating with seed:
+"meant hurt one saw scars upon brokenhearted"
+meant hurt one saw scars upon brokenhearted oh little little little little bird little bird little little bird bird bird little bird bird little bird bird bird little bird oh little bird little bird little bird little bird little little little little bird bird little bird bird little bird bird bird little bird little bird little little
+----- Diversity:0.5
+----- Generating with seed:
+"meant hurt one saw scars upon brokenhearted"
+meant hurt one saw scars upon brokenhearted upon see see tell know know love im sight fall love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.6
+----- Generating with seed:
+"meant hurt one saw scars upon brokenhearted"
+meant hurt one saw scars upon brokenhearted kicks upon upon saw upon sky give love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.7
+----- Generating with seed:
+"meant hurt one saw scars upon brokenhearted"
+meant hurt one saw scars upon brokenhearted got tell kicks kicks hmmmm kicks kicks upon kicks tell tell hmmmm kicks kicks hmmmm hmmmm onenight kicks kicks tell kicks brokenhearted hmmmm hmmmm kicks brokenhearted upon tell hmmmm hmmmm kicks hmmmm blue hmmmm hmmmm hmmmm hmmmm hmmmm hmmmm hmmmm hmmmm kicks hmmmm onenight hmmmm hmmmm else love long way
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"friends could anything try keep secrets safe"
+friends could anything try keep secrets safe never one ill never sheltered long long long long long long long long long long long long love long long love long long long love long long love lover long long love long long love lover long love long long love long long long love lover long long long love
+----- Diversity:0.4
+----- Generating with seed:
+"friends could anything try keep secrets safe"
+friends could anything try keep secrets safe cause one ill words id id id id life ill im ill im things ive done think love think love love body ohiohiohiohi love love love love body come come love love come come baby come come come baby come come come baby come come baby come come come baby
+----- Diversity:0.5
+----- Generating with seed:
+"friends could anything try keep secrets safe"
+friends could anything try keep secrets safe one ill want could id dad id dont wanna know dont wanna know new man dont know man dont need need need man dont need man dont need need need man dont need man dont need need need man dont need man dont need need need man dont need man
+----- Diversity:0.6
+----- Generating with seed:
+"friends could anything try keep secrets safe"
+friends could anything try keep secrets safe let know one know love youll wont love love love love love love love love love love love love love love love love love love love love love love love love love love love love hate love love love love love love way love love love love love love love
+----- Diversity:0.7
+----- Generating with seed:
+"friends could anything try keep secrets safe"
+friends could anything try keep secrets safe anything break like know youre believe miss mind say say hand youre heart dad everything well love like stars younger feel love friends like feel driving kissed love love like way maybe dont want feel tonight need cause dont look anymore world cold looks eyes tonight eyes take take back
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"love love handmade somebody like come follow"
+love love handmade somebody like come follow lead may crazy dont mind say boy lets talk much grab waist put body come follow lead come come follow lead im love shape push pull like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new im love shape come
+----- Diversity:0.4
+----- Generating with seed:
+"love love handmade somebody like come follow"
+love love handmade somebody like come follow lead may crazy dont mind say say boy lets talk since show broke much much grab could id words id change im driving yet yet seems im yet im yet yet im yet yet im yet yet im yet feet im yet im yet yet im yet yet im yet
+----- Diversity:0.5
+----- Generating with seed:
+"love love handmade somebody like come follow"
+love love handmade somebody like come follow lead may crazy dont mind say boy lets talk much grab waist put body come come follow lead come come im love body come come baby come come come come baby come come come baby come come come come baby come come baby come come baby come come come follow
+----- Diversity:0.6
+----- Generating with seed:
+"love love handmade somebody like come follow"
+love love handmade somebody like come follow lead may crazy dont mind say boy lets talk much grab waist put body come baby come come baby come come come come follow lead come home come lead home home like come home come home come follow lead come home home come home oh wont wont leave go wont
+----- Diversity:0.7
+----- Generating with seed:
+"love love handmade somebody like come follow"
+love love handmade somebody like come follow lead may crazy dont mind say boy lets talk grab grab waist put body come come follow lead come come follow lead come im love body come love love body come come come baby come baby come come come come come baby come come come baby come come baby come
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"womans hands warm wanna drunk wake right"
+womans hands warm wanna drunk wake right side ill drunk love little little little bird little bird bird oh oh oh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh sing oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh
+----- Diversity:0.4
+----- Generating with seed:
+"womans hands warm wanna drunk wake right"
+womans hands warm wanna drunk wake right side next wake wake next ill makeup id id id feel life like cold wanna keep warm know love take back dont back friends love take back dont fade back love take back take back take back dont fade back love love love love love love love love love love
+----- Diversity:0.5
+----- Generating with seed:
+"womans hands warm wanna drunk wake right"
+womans hands warm wanna drunk wake right side wake change world whole know change know love change world world moment know love change world moment know love change world moment know love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.6
+----- Generating with seed:
+"womans hands warm wanna drunk wake right"
+womans hands warm wanna drunk wake right next love lover long love lover feel love long long love lover long feel love long long love feel long feel love long long feel feel love feel love long long love lover feel love long long love long love feel long love long love long feel love lover long
+----- Diversity:0.7
+----- Generating with seed:
+"womans hands warm wanna drunk wake right"
+womans hands warm wanna drunk wake right wake next wake love wake next small could change ill picture ill dress ill world little little know could diary know youll smile im beautiful know right sleep sleep find id id dont let want speak feeling like believe wanna love way know maybe maybe found know right im maybe
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"diving soon ill owe oh little bird"
+diving soon ill owe oh little bird little bird bird bird sure im beat beat sure im ill im going home drunk ill never let go home keep keep low ill eyes eyes eyes ill know im dancing dark arms barefoot grass listening favorite song saw dress looking beautiful dont deserve darling look perfect tonight baby take
+----- Diversity:0.4
+----- Generating with seed:
+"diving soon ill owe oh little bird"
+diving soon ill owe oh little bird little bird whoa oh oh oh oh ohoh oh oh ohoh oh ohoh oh oh ohoh oh ohoh oh ohoh oh oh ohoh oh ohoh oh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh oh ohoh oh ohoh oh ohoh oh ohoh oh oh ohoh
+----- Diversity:0.5
+----- Generating with seed:
+"diving soon ill owe oh little bird"
+diving soon ill owe oh little bird little bird little bird whoa oh oh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh oh oh ohoh oh oh ohoh oh ohoh oh oh ohoh oh ohoh oh oh ohoh oh sing love oh ohoh oh oh ohoh oh oh ohoh oh
+----- Diversity:0.6
+----- Generating with seed:
+"diving soon ill owe oh little bird"
+diving soon ill owe oh little bird little bird little bird galway bird fire oh oh oh wont know thing baby know maybe want love like way since drunk feel love love like like wanna wanna loved wanna loved feels like wanna loved falling love love love love love love love love love love love love love
+----- Diversity:0.7
+----- Generating with seed:
+"diving soon ill owe oh little bird"
+diving soon ill owe oh little bird little bird whoa oh oh oh oh oh ohoh oh ohoh oh ohoh oh ohoh oh ohoh oh sing love oh ohoh oh oh oh oh ohoh oh ohoh sing oh ohoh oh oh ohoh oh oh ohoh oh oh ohoh oh louder oh ohoh oh sing oh ohoh oh
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"like never broke oh soul lately really"
+like never broke oh soul lately really need know long long touch go oh soul long long touch go long touch go go long touch go say say say words hallelujah angel shape mum holding run away couldnt see know know away people im know im positive im going yet another im yet feet im going thinking
+----- Diversity:0.4
+----- Generating with seed:
+"like never broke oh soul lately really"
+like never broke oh soul lately really need know long long touch go oh soul long long touch go long long touch go go say say words take back take back home stay take back take back take back take back found oh wont love oh oh ohoh oh ohoh oh oh ohoh oh ohoh oh oh
+----- Diversity:0.5
+----- Generating with seed:
+"like never broke oh soul lately really"
+like never broke oh soul lately really need know long long touch go oh oh knows long touch go long touch go go long touch go say say knows go say say hallelujah hallelujah angel shape today song holding youd spread wings go god takes back say say hallelujah youre home hallelujah angel shape mum mum see
+----- Diversity:0.6
+----- Generating with seed:
+"like never broke oh soul lately really"
+like never broke oh soul lately really need know long long touch go oh soul long long touch go long long touch go long long touch go long touch go go would say would dad go would stop ill never leave never let ill never let know let go soon ill never let go hold home drunk
+----- Diversity:0.7
+----- Generating with seed:
+"like never broke oh soul lately really"
+like never broke oh soul lately really need know long long touch go oh let go long touch go go drive wait home home home wait come home home inside heal necklace people go die hide raise fast seek shadowed light rose around oh let know heart go pretend never glue let go home keep see fire
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"know dont wanna know new man shes"
+know dont wanna know new man shes like cold already singing like need know theres limit everything love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.4
+----- Generating with seed:
+"know dont wanna know new man shes"
+know dont wanna know new man shes like show know show love like way since youre broke gonna ill never long long love lover long long long long long love lover long long touch go long touch go long long touch go long touch go long long touch go long touch go go long touch go long
+----- Diversity:0.5
+----- Generating with seed:
+"know dont wanna know new man shes"
+know dont wanna know new man shes like cold already singing like need know man dont need know need man need need man dont need need need man dont need man dont need need need man dont need man dont need need need man dont need man dont need need need man dont need man dont need
+----- Diversity:0.6
+----- Generating with seed:
+"know dont wanna know new man shes"
+know dont wanna know new man shes like cold already singing love like know love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.7
+----- Generating with seed:
+"know dont wanna know new man shes"
+know dont wanna know new man shes like cold side liked pick singing id take way stay go stay roads underwear know love oh oh oh ohoh oh oh ohoh oh ohoh oh ohoh oh sing oh ohoh oh ohoh oh oh oh ohoh oh sing soul ohoh oh sing oh ohoh oh sing love come oh
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"collide promise youll always friend cause one"
+collide promise youll always friend cause one stumbling drunk drunk drunk little little little know bird little bird little bird bird sure bird take back im back im love shape come baby im stumbling home drunk ill ever ill never let ill keep crying still drunk ill drunk feel little little little bird bird whoa oh oh
+----- Diversity:0.4
+----- Generating with seed:
+"collide promise youll always friend cause one"
+collide promise youll always friend cause one stumbling drunk drunk little little oh oh little bird little bird little bird thing im sure im love wake think ill im love shape heart ill never let ill never let keep strumming heart strings like grade eight never felt way ill pick feet ground never ever let hold heart
+----- Diversity:0.5
+----- Generating with seed:
+"collide promise youll always friend cause one"
+collide promise youll always friend cause one stumbling drunk drunk little know oh little know made made little oh knows youll play youll play never knows like used way gets road like pain winding lanes know last im way driving 90 country lanes singing tiny dancer miss way make feel real watched sunset castle hill castle hill
+----- Diversity:0.6
+----- Generating with seed:
+"collide promise youll always friend cause one"
+collide promise youll always friend cause one stumbling half drunk getting know gone tell im love get home way want call want many story feels like tell love love oh love love yeah love love love love love love love love love love love love love love love love love love love love love love love love
+----- Diversity:0.7
+----- Generating with seed:
+"collide promise youll always friend cause one"
+collide promise youll always friend cause one stumbling drunk drunk drunk want never cause ill owe little little oh oh bird whoa oh oh ohoh oh ohoh oh oh ohoh oh oh ohoh oh ohoh sing oh sing come heart feel love like cant mother im way driving 90 country lanes singing tiny dancer miss way make
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"like magnet although heart falling im love"
+like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new im love shape come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come
+----- Diversity:0.4
+----- Generating with seed:
+"like magnet although heart falling im love"
+like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new im love shape come baby come come baby come come baby come come come baby come come baby come come baby come come baby come come baby come come baby come come baby come im love body
+----- Diversity:0.5
+----- Generating with seed:
+"like magnet although heart falling im love"
+like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new oh im love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come
+----- Diversity:0.6
+----- Generating with seed:
+"like magnet although heart falling im love"
+like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new im love shape come baby come come baby come come baby come come baby come come baby come come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.7
+----- Generating with seed:
+"like magnet although heart falling im love"
+like magnet although heart falling im love body last night room bedsheets smell like every day discovering something brand new im love shape come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"either way ill cry rest father told"
+either way ill cry rest father told son fault lie dont even know get mind never leave lonely every time se less enko ye ye ye ye bibia ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye ye
+----- Diversity:0.4
+----- Generating with seed:
+"either way ill cry rest father told"
+either way ill cry rest father told son fault lie fault son dont know dont know im positive dont wanna know new man dont need need know man dont need need man dont need need man dont need need man dont need need man dont need need man dont need need man dont need need man dont
+----- Diversity:0.5
+----- Generating with seed:
+"either way ill cry rest father told"
+either way ill cry rest father told son fault fault dont even know maybe oh knows know theres never fine youre getting knows runaway gonna gonna grab go clothes morning go long leaving dad dont expect back evening oh could take bit time heal long day thumb side drink got honey sleep sleep light weeks couple weeks
+----- Diversity:0.6
+----- Generating with seed:
+"either way ill cry rest father told"
+either way ill cry rest father told son fault lie dont even know maybe oh knows better theres catch still feel like still feel like feel love easy wanna know man took hand said want go guide home soon want love love long cant make feel love day another cause ill liked feel love think love love
+----- Diversity:0.7
+----- Generating with seed:
+"either way ill cry rest father told"
+either way ill cry rest father told son fault dont set even ever wanna know show cause ill leave go take back oh wont leave go nina love come love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come im love
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"swear singing know played fiddle irish band"
+swear singing know played fiddle irish band fell love english man kissed neck took hand said baby want dance pretty little galway girl galway girl galway girl galway girl weve weve weve come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.4
+----- Generating with seed:
+"swear singing know played fiddle irish band"
+swear singing know played fiddle irish band fell love english man kissed neck took hand said baby want dance pretty little galway girl galway girl galway girl galway girl weve weve weve come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.5
+----- Generating with seed:
+"swear singing know played fiddle irish band"
+swear singing know played fiddle irish band fell love english man kissed neck took hand said baby want dance pretty little galway girl galway girl galway girl galway girl weve weve weve come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.6
+----- Generating with seed:
+"swear singing know played fiddle irish band"
+swear singing know played fiddle irish band fell love english man kissed neck took hand said baby want dance pretty little galway girl galway girl galway girl galway girl weve galway girl weve fiddle irish fell love way conquer mouth kissed darling set mine want still feel like way still touch well know ill never let go
+----- Diversity:0.7
+----- Generating with seed:
+"swear singing know played fiddle irish band"
+swear singing know played fiddle irish band fell love english man kissed neck took hand said baby want dance pretty little galway girl galway girl galway girl galway girl weve weve weve weve come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"alright die thats thing havent tried tonight"
+alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre
+----- Diversity:0.4
+----- Generating with seed:
+"alright die thats thing havent tried tonight"
+alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre
+----- Diversity:0.5
+----- Generating with seed:
+"alright die thats thing havent tried tonight"
+alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre
+----- Diversity:0.6
+----- Generating with seed:
+"alright die thats thing havent tried tonight"
+alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre
+----- Diversity:0.7
+----- Generating with seed:
+"alright die thats thing havent tried tonight"
+alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart go home hold come heal
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"ill pick feet ground never ever let"
+ill pick feet ground never ever let alright cry even dad sometimes dont wipe eyes tears remind youre alive alright die cause everyday ill oh let oh time oh ohoh oh ohoh oh ohoh oh sing oh ohoh oh oh ohoh oh oh sing oh ohoh oh oh ohoh oh oh ohoh oh ohoh sing oh ohoh
+----- Diversity:0.4
+----- Generating with seed:
+"ill pick feet ground never ever let"
+ill pick feet ground never ever let alright cry even dad sometimes dont wipe eyes tears remind youre alive alright die cause ill youll lie lie ive living ill drunk ill never ill drunk drunk feel little love dont wanna hate wish youd never gone man waited two weeks least let take take back dreams lie dont
+----- Diversity:0.5
+----- Generating with seed:
+"ill pick feet ground never ever let"
+ill pick feet ground never ever let youre strumming heart strings like grade eight never felt way ill pick feet ground never ever let alright cry even dad sometimes dont wipe eyes tears remind youre alive alright die lie thing let ill hold see fire keep low ill know lie feel ill never let ill keep inside
+----- Diversity:0.6
+----- Generating with seed:
+"ill pick feet ground never ever let"
+ill pick feet ground never ever let alright cry even dad sometimes dont wipe eyes tears remind life alright die thats thing havent tried tonight hold live life like youre giving cause act like go ahead live go tear apart hold live life like youre giving cause act like go ahead live go tear apart hold live
+----- Diversity:0.7
+----- Generating with seed:
+"ill pick feet ground never ever let"
+ill pick feet ground never ever let youre strumming heart strings like grade eight never felt way ill pick feet ground never ever let youre strumming heart strings like grade eight never felt way ill pick feet ground never ever let alright cry even dad sometimes dont wipe eyes tears remind life alright die thats thing havent
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"let hearts collide promise youll never leave"
+let hearts collide promise youll never leave cause one take hand heart soul eyes know everything know im love shape said said fell love darling back far hallelujah youre home youre walking home home home home home home see flames inside eyes burns bright wanna feel love easy baby maybe im liar tonight wanna fall love put
+----- Diversity:0.4
+----- Generating with seed:
+"let hearts collide promise youll never leave"
+let hearts collide promise youll never leave cause one take hand heart soul eyes know everything friends baby im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body ohiohiohiohi im love body
+----- Diversity:0.5
+----- Generating with seed:
+"let hearts collide promise youll never leave"
+let hearts collide promise youll never leave cause one take hand heart soul eyes know everything oh baby im love body every day discovering something brand new im love shape come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.6
+----- Generating with seed:
+"let hearts collide promise youll never leave"
+let hearts collide promise youll never leave cause one take hand heart soul eyes know everything know everything im love body every day discovering something brand new im love shape come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come come baby come
+----- Diversity:0.7
+----- Generating with seed:
+"let hearts collide promise youll never leave"
+let hearts collide promise youll never leave cause one take hand heart soul eyes know everything oh baby baby want baby im love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"night love love night love love night"
+night love love night love love night love love night love love night love love night love love night love love night love love night love love night love love night love love night love love ive drinking brain right gangster wife wife keep dead thought say away standing shadowed light seem sunset lanes know much much
+----- Diversity:0.4
+----- Generating with seed:
+"night love love night love love night"
+night love love night love love night love love night love love ive drinking brain right gangster wife wife keep closed make sleeps closed dying voices mind calling across line voices mind calling across line voices mind calling across line voices mind calling across line voices mind calling across line voices mind calling across line voices mind
+----- Diversity:0.5
+----- Generating with seed:
+"night love love night love love night"
+night love love night love love night love love night love love night love love ive drinking brain right gangster wife wife break thinking oh wont nina ooh nina oh oh ohoh oh oh ohoh oh ohoh sing oh ohoh oh oh ohoh oh oh sing oh ohoh oh oh ohoh oh oh sing oh ohoh oh
+----- Diversity:0.6
+----- Generating with seed:
+"night love love night love love night"
+night love love night love love night love love night love love night love love ive drinking brain right gangster wife wife keep dead angel brother closed start cannot take saw voices ill say another dont back take back take back im way driving 90 country lanes singing tiny dancer miss way make feel real watched sunset
+----- Diversity:0.7
+----- Generating with seed:
+"night love love night love love night"
+night love love night love love night love love love night love night love love love night love love love love love love love love love love love love love love love love youre small bump bump bump man squeeze smile eyes eyes eyes eyes red youre taste salt water lips kiss bitterness drown within within although
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"kissed darling please dont alarmed start everything"
+kissed darling please dont alarmed start everything want new life new york every song plays like day okay cry im saying maybe thats waste water know im back taxi cab tonight new york im york cold drink get bus id id dont take back im way things love take back dont know lost mind maybe every time
+----- Diversity:0.4
+----- Generating with seed:
+"kissed darling please dont alarmed start everything"
+kissed darling please dont alarmed start everything want new life new york every song plays like day okay cry im saying maybe thats waste water know im back taxi cab tonight new york york take ya never cold two day outside wanna flying lungs god put falling yeah ive walked night ive walked done ive drinking ive
+----- Diversity:0.5
+----- Generating with seed:
+"kissed darling please dont alarmed start everything"
+kissed darling please dont alarmed start everything want new life new york every song plays like day okay okay got save see mean dont mean keep shit still way roads night still like still left lately lately give calling like life cause dont soul lose mind take back dont back stay stay sofa forever days could take
+----- Diversity:0.6
+----- Generating with seed:
+"kissed darling please dont alarmed start everything"
+kissed darling please dont alarmed start everything want new life new york every song plays like go angel shape day lead life theyre holding small although sweet perfume mountain rolled younger im way driving 90 country lanes singing tiny dancer miss way make feel real watched sunset castle hill castle hill castle hill six years old broke
+----- Diversity:0.7
+----- Generating with seed:
+"kissed darling please dont alarmed start everything"
+kissed darling please dont alarmed start everything want new life new york every song plays like day okay cry im saying maybe thats waste water know im back taxi cab tonight new york dont cold dont call wanna know new man well look fall know get cause sleep sleep dont believe go home im stuck away gonna
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"say standing corner shadowed light seem much"
+say standing corner shadowed light seem much smaller know might much better could someone else im losing sleep live week ive grown think life im small yet sleep steals thoughts restless im mind free im going getting time got got save im going home another life another cause thats home till stay stay living go would wait
+----- Diversity:0.4
+----- Generating with seed:
+"say standing corner shadowed light seem much"
+say standing corner shadowed light seem much smaller know might much better could someone else im losing sleep live week ive grown think life im small yet yet steals thoughts gets young ill im going jordan im going home cause poor poor ive known time watching baby im dancing dark arms barefoot grass listening favorite song saw
+----- Diversity:0.5
+----- Generating with seed:
+"say standing corner shadowed light seem much"
+say standing corner shadowed light seem much smaller know might much better could someone else im losing sleep live week ive grown things ive done think love body come baby im love body come baby come come baby come im love body come baby come come baby come im love body come baby come come baby come
+----- Diversity:0.6
+----- Generating with seed:
+"say standing corner shadowed light seem much"
+say standing corner shadowed light seem much smaller know might much better could someone else im losing sleep live week ive grown think could im ill better im driving country lanes singing miss time miss time words way lost bout make feel mmmmh sure maybe really maybe ill want fight world smoke young ill drunk ill drunk
+----- Diversity:0.7
+----- Generating with seed:
+"say standing corner shadowed light seem much"
+say standing corner shadowed light seem much smaller know might much better could someone else im losing sleep live week ive grown things ive done think love better im touch im love ill pick youre getting things ive done love better look eyes oooh ooh ooooh oooh oooh ooh ooh oooh ooh ooooh oooh oooh ooh ooh
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"stay inside day cold outside high could"
+stay inside day cold outside high could fly berlin tokyo jamaica go want say word ill take ya id rather stay sofa sofa feels like im flying feels like could go berlin tokyo jamaica streets new york take ya dont call since never broke speak river apparel underwear know love love love oh maybe love love love
+----- Diversity:0.4
+----- Generating with seed:
+"stay inside day cold outside high could"
+stay inside day cold outside high could fly berlin tokyo jamaica go want say word ill take ya id rather stay sofa sofa feels like im flying feels like could go berlin tokyo jamaica streets new york take ya dont call since eyes river red cold days keep better eyes one took hair hold tight oh look
+----- Diversity:0.5
+----- Generating with seed:
+"stay inside day cold outside high could"
+stay inside day cold outside high could fly berlin tokyo jamaica go want say word ill take ya id rather stay sofa sofa feels like im flying feels like could go berlin tokyo jamaica streets new york take ya dont call since eyes river red cold wouldnt man outside jukebox angels make theres firefly loose tonight road
+----- Diversity:0.6
+----- Generating with seed:
+"stay inside day cold outside high could"
+stay inside day cold outside high could fly berlin tokyo jamaica go want say word ill take ya id rather stay sofa sofa feels like im flying feels like could go berlin tokyo jamaica streets new york take ya take ya dont back since eyes youre roads mmmmh like glue still tear like knew like im grade
+----- Diversity:0.7
+----- Generating with seed:
+"stay inside day cold outside high could"
+stay inside day cold outside high could fly berlin tokyo jamaica go want say word ill take ya id rather stay sofa sofa feels like im flying feels like could go berlin tokyo jamaica streets new york take ya dont wanna know babe babe dont love told knows take aim reload dont wanna know babe another night
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"give sitting back looking every mess made"
+give sitting back looking every mess made dont call baby unless mean dont tell need dont believe let know truth dive right could fall could fly aeroplane could live could die hanging words say ive known give lie awake every day dont know much take dont call baby unless mean dont tell need dont believe let know
+----- Diversity:0.4
+----- Generating with seed:
+"give sitting back looking every mess made"
+give sitting back looking every mess made dont call baby unless mean dont tell need dont believe let know truth dive right could fall could fly aeroplane could live could die hanging words say ive known give lie awake every day dont know much take dont call baby unless mean dont tell need dont believe let know
+----- Diversity:0.5
+----- Generating with seed:
+"give sitting back looking every mess made"
+give sitting back looking every mess made dont call baby unless mean dont tell need dont believe let know truth dive right could fall could fly aeroplane could live could die hanging words say ive known give lie awake every day dont know much take dont call baby unless mean dont tell need dont believe let know
+----- Diversity:0.6
+----- Generating with seed:
+"give sitting back looking every mess made"
+give sitting back looking every mess made dont call baby unless mean dont tell need dont believe let know truth dive right could fall could fly aeroplane could live could die hanging words say ive known give lie awake every day dont know much take dont call baby unless mean dont tell need dont believe let know
+----- Diversity:0.7
+----- Generating with seed:
+"give sitting back looking every mess made"
+give sitting back looking every mess made dont call baby unless mean dont tell need dont believe let know truth dive right youre holding shape baby im stumbling home way tea going known time sky hope never walk around alright cry even dad make rain oh make rain make rain make rain lord make rain make rain
+================================================================================
