@@ -1,0 +1,37 @@
+# Data manipulation and analysis
+pandas==1.5.3
+
+# Regular expressions
+regex==2023.8.8
+
+# Data visualization
+seaborn==0.12.0
+matplotlib==3.7.1
+wordcloud==1.8.2.2
+
+# Numerical computations
+numpy==1.23.5
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Sentiment analysis
+vaderSentiment==3.3.2
+
+# Machine Learning
+scikit-learn==1.2.0
+
+# Deep Learning
+tensorflow==2.12.0
+
+# Google Colab
+google-colab==1.0.0
+
+# PyTorch
+torch==2.0.1
+
+# Hugging Face Transformers
+transformers==4.30.2
+
+# Additional utilities
+tqdm==4.65.0
