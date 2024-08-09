@@ -12,6 +12,12 @@ Steps to run the program:
   1. install all the requirements in the requirements.txt - pip install -r requirements.txt
   2. Run the cells in each file 
 
-PPT Link: 
-
 Drive Link: https://drive.google.com/drive/u/2/folders/1yUIx4jULrkecdizwBv9vmTETPxeXY415
+
+PPT Link: https://docs.google.com/presentation/d/1MIIVcyI9nCuerwJiyQOqV2z2MLqbTSQf/edit?usp=drive_link
+
+Recording Link: https://drive.google.com/file/d/1q0IES2qRtYMugqhekxcLgN8RspQirEj_/view?usp=drive_link
+
+Report Link: https://docs.google.com/document/d/1xF5TBBUzWZJNhbHldt41k1qsv8bBSHqbxy4q_acwLbY/edit?usp=drive_link
+
+Proposal Link: https://docs.google.com/document/d/1CYK2Y0aPLUwbMpA6gTlWXvxQQ4muz73Bx9T1OBx4HGE/edit?usp=drive_link
