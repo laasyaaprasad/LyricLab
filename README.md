@@ -24,4 +24,4 @@ Proposal Link: https://drive.google.com/file/d/1x_hcdLqvp-I11Ec3aEbY7ZDfXSVdhwZl
 
 GIT Repository Link: https://github.com/sriksven/NLP_Project_LyricLab
 
-Link to Dataset: https://github.com/Parasgr7/Ed-Sheeran-Lyrics-Generator/blob/master/ed_sheeran.csv
+Link to Dataset: https://www.kaggle.com/datasets/kedar123/ed-sheeran
