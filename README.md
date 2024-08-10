@@ -14,10 +14,12 @@ Steps to run the program:
 
 Drive Link: https://drive.google.com/drive/u/2/folders/1yUIx4jULrkecdizwBv9vmTETPxeXY415
 
-PPT Link: https://docs.google.com/presentation/d/1MIIVcyI9nCuerwJiyQOqV2z2MLqbTSQf/edit?usp=drive_link
+PPT Link: https://docs.google.com/presentation/d/1MIIVcyI9nCuerwJiyQOqV2z2MLqbTSQf/edit?usp=drive_link&ouid=114673728345485189320&rtpof=true&sd=true
 
-Recording Link: https://drive.google.com/file/d/1q0IES2qRtYMugqhekxcLgN8RspQirEj_/view?usp=drive_link
+Recording Link: https://docs.google.com/document/d/1HSOoK4W86cpVhLt2JA5oJhIDytICkd18cgOhNxNJpBY/edit?usp=drive_link
 
-Report Link: https://docs.google.com/document/d/1xF5TBBUzWZJNhbHldt41k1qsv8bBSHqbxy4q_acwLbY/edit?usp=drive_link
+Report Link: https://drive.google.com/file/d/18YAg6l7EzHRYhTdHq7hYq8XGK9p_z6Re/view?usp=drive_link
 
-Proposal Link: https://docs.google.com/document/d/1CYK2Y0aPLUwbMpA6gTlWXvxQQ4muz73Bx9T1OBx4HGE/edit?usp=drive_link
+Proposal Link: https://drive.google.com/file/d/1x_hcdLqvp-I11Ec3aEbY7ZDfXSVdhwZl/view?usp=drive_link
+
+GIT Repository Link: https://github.com/sriksven/NLP_Project_LyricLab
