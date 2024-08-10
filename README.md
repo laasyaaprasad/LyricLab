@@ -23,3 +23,5 @@ Report Link: https://drive.google.com/file/d/18YAg6l7EzHRYhTdHq7hYq8XGK9p_z6Re/v
 Proposal Link: https://drive.google.com/file/d/1x_hcdLqvp-I11Ec3aEbY7ZDfXSVdhwZl/view?usp=drive_link
 
 GIT Repository Link: https://github.com/sriksven/NLP_Project_LyricLab
+
+Link to Dataset: https://github.com/Parasgr7/Ed-Sheeran-Lyrics-Generator/blob/master/ed_sheeran.csv
