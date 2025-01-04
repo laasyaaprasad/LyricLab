@@ -6,6 +6,13 @@ Our primary objective is to develop text generation models using Language Model 
 
 The Ed Sheeran dataset comprises 179 rows and 3 columns, labeled "Song name," "Lyrics Link," and "Lyrics Content." It includes 111 unique songs, with a vocabulary size of over 4000 unique words across all the lyrics. The dataset contains a total of 62,000 plus tokens, representing the total number of words used in the lyrics.
 
+3 models were used : 
+* N Gram
+* RNN-LSTM
+* GPT-2 Transformer
+<img width="884" alt="Screenshot 2025-01-03 at 8 06 11 PM" src="https://github.com/user-attachments/assets/54ce0094-e0ff-4193-a00f-3e2746cc98f2" />
+<img width="887" alt="Screenshot 2025-01-03 at 8 06 56 PM" src="https://github.com/user-attachments/assets/5ff1c36c-9b2c-4c5f-b838-3d27d0b5f484" />
+
 Ed Sheeran Lyrics generator:
 
 Steps to run the program:
